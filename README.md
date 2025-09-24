@@ -131,6 +131,6 @@ The ensemble model provided the best balance across metrics.
 ## 📌 Author
 👤 Siyam Sajnan Chowdhury  
 - MSc in Computer Science (AI)  
-- MSc in Data Analytics & Design Thinking  
+- MSc in Data Analytics & Design Thinking for Business
 
 ---
